@@ -1,37 +1,60 @@
+<h1 align="center"> Hi, I am Yusuf Jamal! 
+    <a href="https://github.com/yusuf7861" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1> 
+<!-- Text animation effect -->
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;FrontEnd+Web+Developer;Gamer;Love+to+read+books;Always%20learning%20new%20things&center=true&width=380&height=45&">
+	</a>
+</p>
+<img align="center" src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611da38255c139e66b1a58b0fc1b8ad7120012359ec&rid=giphy.gif&ct=g"> 
 
- <h1 align="left">Yusuf Jamal</h1>
-<h3 align="left">Hi there👋, I am Yusuf Jamal. A self taught, passionate and fast-learner Frontend Developer from India 🌎. Now I'm a student of  first year undergrad software engineering 👨‍🎓. I love to work with new technologies and developing websites 🔭. Currently I am learning C, C++ and Javascript.</h3> <hr>
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif"
-
+<!-- profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuf7861&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf7861" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusuf7861" alt="yusuf7861" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/yusufja38819648" target="blank"><img src="https://img.shields.io/twitter/follow/yusufja38819648?logo=twitter&style=for-the-badge" alt="yusufja38819648" /></a> </p>
-
-- 🔭 I’m currently working on **HTML FULL COURSE**
-
-- 🌱 I’m currently learning **C and Javascript**
-
-- 👯 I’m looking to collaborate on **Javascript Problems**
-
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT & UI/UX DESIGN**
-
-- 📫 How to reach me **yjamal710@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@yusuf127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@yusuf127" height="30" width="40" /></a>
-<a href="https://twitter.com/yusufja38819648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yusufja38819648" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/siddique.raaj.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/siddique.raaj.9/" height="30" width="40" /></a>
-<a href="https://instagram.com/siddique.raaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddique.raaj" height="30" width="40" /></a>
+## Programming Languages & Tech:
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Frameworks and Libraries:
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+ <br>
+ 
+## 🔭 Tools:
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuf7861&show_icons=true&locale=en&layout=compact" alt="yusuf7861" /></p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/siddique.raaj.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddique.raaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19501222/yusuf-jamal?tab=profile) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Yusufja38819648)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuf7861&show_icons=true&locale=en" alt="yusuf7861" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yusuf7861&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yusuf7861&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf7861&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf7861&" alt="yusuf7861" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yusuf7861&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=yusuf7861&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"> Made with ❤️ by Yusuf Jamal :v:
