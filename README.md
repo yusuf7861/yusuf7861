@@ -41,6 +41,9 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/siddique.raaj.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/siddique.raaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19501222/yusuf-jamal?tab=profile) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Yusufja38819648)
 
+## Road Card
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64fcc3945ce9f4ca58aa72e6?variant=dark&roadmaps=java)](https://roadmap.sh)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yusuf7861&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yusuf7861&theme=dark&hide_border=false)
