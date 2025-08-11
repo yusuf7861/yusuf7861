@@ -1,0 +1,32 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: yusuf7861
+          # Optional: Customize the card themes
+          theme: default
+          # Optional: Exclude languages from the language stats
+          exclude_language: ''
+          # Optional: Show private contributions
+          include_private: true
